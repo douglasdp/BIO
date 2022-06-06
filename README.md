@@ -3,9 +3,9 @@
 - 🌱 Atualmente estou aprendendo JavaScript;
 - 💞️ Procuro colaborar no estudo;
 - 📫 Como entrar em contato comigo? em breve um e-mail aqui.
-
-
-
+ 
+ 
+ 
 - 👋 Hi, I’m @douglasdp currently tattooist;
 - 👀 I’m interested in changing careers;
 - 🌱 I’m currently learning JavaScript;
